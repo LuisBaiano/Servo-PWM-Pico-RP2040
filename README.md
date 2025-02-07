@@ -1,4 +1,3 @@
-
 # Controle de Servomotor via PWM em uma Raspberry PICO W 2040
 
 **Autor: Luis Felipe Pereira de Carvalho**
@@ -68,8 +67,8 @@ Após essas posições iniciais, o servomotor se move continuamente entre 0° e 
 
 1. **Clonando o Repositório:**
    ```bash
-   git clone <URL_do_repositório>
-   cd <nome_do_projeto>
+   git clone https://github.com/LuisBaiano/Servo-PWM-Pico-RP2040.git
+   cd Servo-PWM-Pico-RP2040
    ```
 2. **Compilando o Código:**
    ```bash
@@ -100,4 +99,4 @@ Após essas posições iniciais, o servomotor se move continuamente entre 0° e 
 
 Assista ao vídeo demonstrativo no seguinte link:
 
-* [Vídeo de Demonstração - Controle de Servomotor por PWM](https://www.dropbox.com/scl/fi/i32f4t9dqggn4c1durb4o/2025-02-04-08-52-05.mkv?rlkey=s6ofq9yumuts3h8chte052cuj&dl=0)
+* [Vídeo de Demonstração - Controle de Servomotor por PWM](https://drive.google.com/file/d/1M_6oiD4DvjBT0KyS0zk2mPkEvSdlDMRy/view?usp=sharing)
